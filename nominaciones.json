@@ -1,0 +1,101 @@
+[
+  {
+    "week": 1,
+    "data": [
+      [
+    ['Agostina', 'Lucía', 'Isabel'],
+    ['Alan', 'Zoe', 'Juliana'],
+    ['Axel', 'Carla', 'Juliana'],
+    ['Bautista', 'Juliana', 'Catalina'],
+    ['Carla', 'Hernán', 'Axel'],
+    ['Catalina', 'Hernán', 'Nicolás'],
+    ['Denisse', 'Juliana', 'Lisandro'],
+    ['Emmanuel', 'Juliana', 'Hernán'],
+    ['Federico', 'Catalina', 'Juliana'],
+    ['Florencia', 'Emmanuel', 'Williams'],
+    ['Hernán', 'Catalina', 'Juliana'],
+    ['Isabel', 'Zoe', 'Juliana'],
+    ['Joel', 'Juliana', 'Hernán'],
+    ['Juliana', 'Denisse', 'Zoe'],
+    ['Lisandro', 'Juliana', 'Zoe'],
+    ['Lucía', 'Denisse', 'Florencia'],
+    ['Martín', 'Zoe', 'Carla'],
+    ['Nicolás', 'Juliana', 'Hernán'],
+    ['Rosina', 'Juliana', 'Axel'],
+    ['Sabrina', 'Juliana', 'Catalina'],
+    ['Williams', 'Isabel', 'Juliana'],
+    ['Zoe', 'Williams', 'Axel'],
+     ],
+    ]
+    "events": [
+      { "type": "espontanea", "participantIndex": 13 }
+    ]
+  },
+  {
+    "week": 2,
+    "data": [
+      [
+    ['Agostina', 'Axel', 'Sabrina'],
+    ['Alan', 'Carla', 'Catalina'],
+    ['Axel', 'Catalina', 'Juliana'],
+    ['Bautista', 'Juliana', 'Carla'],
+    ['Carla', 'Isabel', 'Sabrina'],
+    ['Catalina', 'Isabel', 'Sabrina'],
+    ['Denisse', 'Carla', 'Juliana'],
+    ['Emmanuel', 'Rosina', 'Lisandro'],
+    ['Federico', 'Juliana', 'Florencia'],
+    ['Florencia', 'Sabrina', 'Axel'],
+    ['Isabel', 'Florencia', 'Juliana'],
+    ['Joel', 'Catalina', 'Juliana'],
+    ['Juliana', 'Sabrina', 'Axel'],
+    ['Lisandro', 'Juliana', 'Florencia'],
+    ['Lucía', 'Isabel', 'Axel'],
+    ['Martín', 'Catalina', 'Carla'],
+    ['Nicolás', 'Florencia', 'Juliana'],
+    ['Rosina', 'Axel', 'Carla'],
+    ['Sabrina', 'Juliana', 'Carla'],
+    ['Williams', 'Juliana', 'Carla'],
+    ['Zoe', 'Juliana', 'Agostina'],
+     ],
+    ]
+        "events": [
+      { "type": "anulado2", "participantIndex": 0 },
+      { "type": "anulado1", "participantIndex": 3 },
+      { "type": "anulado2", "participantIndex": 4 },
+      { "type": "anulado2", "participantIndex": 5 },
+      { "type": "anulado1", "participantIndex": 9 },
+      { "type": "anulado2", "participantIndex": 10 },
+      { "type": "espontanea", "participantIndex": 12 },
+      { "type": "anulado1", "participantIndex": 12 },
+      { "type": "anulado1", "participantIndex": 18 },
+      { "type": "anulado1", "participantIndex": 19 },
+    ]
+  },
+  {
+    "week": 3,
+    "data": [
+      [
+    ['Agostina', 'Florencia', 'Sabrina'],
+    ['Alan', 'Carla', 'Joel'],
+    ['Bautista', 'Carla', 'Catalina'],
+    ['Carla', 'Sabrina', 'Denisse'],
+    ['Catalina', 'Lisandro', 'Sabrina'],
+    ['Denisse', 'Carla', 'Florencia'],
+    ['Emmanuel', 'Florencia', 'Agostina'],
+    ['Federico', 'Carla', 'Florencia'],
+    ['Florencia', 'Sabrina', 'Isabel'],
+    ['Isabel', 'Florencia', 'Catalina'],
+    ['Joel', 'Carla', 'Lisandro'],
+    ['Lisandro', 'Florencia', 'Catalina'],
+    ['Lucía', 'Isabel', 'Florencia'],
+    ['Martín', 'Florencia', 'Agostina'],
+    ['Nicolás', 'Florencia', 'Carla'],
+    ['Rosina', 'Florencia', 'Lisandro'],
+    ['Sabrina', 'Florencia', 'Carla'],
+    ['Zoe', 'Florencia', 'Carla'],
+    ],
+    "events": [
+      { "type": "espontanea", "participantIndex": 4 },
+    ]
+  }
+]
