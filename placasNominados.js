@@ -1,4 +1,5 @@
- {week: 0,
+[
+{week: 0,
     data: [  
       { role: 'Líder', name: 'Sabrina', result: '-' },
       { role: 'Nominado', name: 'Catalina', result: 'Salvado por el líder' },
@@ -32,3 +33,4 @@
           
         ],
         },
+ ];
