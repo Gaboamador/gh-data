@@ -1,101 +1,559 @@
-[
-  {
-    "week": 1,
+{
     "data": [
-      [
-    ['Agostina', 'Lucía', 'Isabel'],
-    ['Alan', 'Zoe', 'Juliana'],
-    ['Axel', 'Carla', 'Juliana'],
-    ['Bautista', 'Juliana', 'Catalina'],
-    ['Carla', 'Hernán', 'Axel'],
-    ['Catalina', 'Hernán', 'Nicolás'],
-    ['Denisse', 'Juliana', 'Lisandro'],
-    ['Emmanuel', 'Juliana', 'Hernán'],
-    ['Federico', 'Catalina', 'Juliana'],
-    ['Florencia', 'Emmanuel', 'Williams'],
-    ['Hernán', 'Catalina', 'Juliana'],
-    ['Isabel', 'Zoe', 'Juliana'],
-    ['Joel', 'Juliana', 'Hernán'],
-    ['Juliana', 'Denisse', 'Zoe'],
-    ['Lisandro', 'Juliana', 'Zoe'],
-    ['Lucía', 'Denisse', 'Florencia'],
-    ['Martín', 'Zoe', 'Carla'],
-    ['Nicolás', 'Juliana', 'Hernán'],
-    ['Rosina', 'Juliana', 'Axel'],
-    ['Sabrina', 'Juliana', 'Catalina'],
-    ['Williams', 'Isabel', 'Juliana'],
-    ['Zoe', 'Williams', 'Axel'],
-     ],
-    ]
-    "events": [
-      { "type": "espontanea", "participantIndex": 13 }
-    ]
-  },
-  {
-    "week": 2,
-    "data": [
-      [
-    ['Agostina', 'Axel', 'Sabrina'],
-    ['Alan', 'Carla', 'Catalina'],
-    ['Axel', 'Catalina', 'Juliana'],
-    ['Bautista', 'Juliana', 'Carla'],
-    ['Carla', 'Isabel', 'Sabrina'],
-    ['Catalina', 'Isabel', 'Sabrina'],
-    ['Denisse', 'Carla', 'Juliana'],
-    ['Emmanuel', 'Rosina', 'Lisandro'],
-    ['Federico', 'Juliana', 'Florencia'],
-    ['Florencia', 'Sabrina', 'Axel'],
-    ['Isabel', 'Florencia', 'Juliana'],
-    ['Joel', 'Catalina', 'Juliana'],
-    ['Juliana', 'Sabrina', 'Axel'],
-    ['Lisandro', 'Juliana', 'Florencia'],
-    ['Lucía', 'Isabel', 'Axel'],
-    ['Martín', 'Catalina', 'Carla'],
-    ['Nicolás', 'Florencia', 'Juliana'],
-    ['Rosina', 'Axel', 'Carla'],
-    ['Sabrina', 'Juliana', 'Carla'],
-    ['Williams', 'Juliana', 'Carla'],
-    ['Zoe', 'Juliana', 'Agostina'],
-     ],
-    ]
-        "events": [
-      { "type": "anulado2", "participantIndex": 0 },
-      { "type": "anulado1", "participantIndex": 3 },
-      { "type": "anulado2", "participantIndex": 4 },
-      { "type": "anulado2", "participantIndex": 5 },
-      { "type": "anulado1", "participantIndex": 9 },
-      { "type": "anulado2", "participantIndex": 10 },
-      { "type": "espontanea", "participantIndex": 12 },
-      { "type": "anulado1", "participantIndex": 12 },
-      { "type": "anulado1", "participantIndex": 18 },
-      { "type": "anulado1", "participantIndex": 19 },
-    ]
-  },
-  {
-    "week": 3,
-    "data": [
-      [
-    ['Agostina', 'Florencia', 'Sabrina'],
-    ['Alan', 'Carla', 'Joel'],
-    ['Bautista', 'Carla', 'Catalina'],
-    ['Carla', 'Sabrina', 'Denisse'],
-    ['Catalina', 'Lisandro', 'Sabrina'],
-    ['Denisse', 'Carla', 'Florencia'],
-    ['Emmanuel', 'Florencia', 'Agostina'],
-    ['Federico', 'Carla', 'Florencia'],
-    ['Florencia', 'Sabrina', 'Isabel'],
-    ['Isabel', 'Florencia', 'Catalina'],
-    ['Joel', 'Carla', 'Lisandro'],
-    ['Lisandro', 'Florencia', 'Catalina'],
-    ['Lucía', 'Isabel', 'Florencia'],
-    ['Martín', 'Florencia', 'Agostina'],
-    ['Nicolás', 'Florencia', 'Carla'],
-    ['Rosina', 'Florencia', 'Lisandro'],
-    ['Sabrina', 'Florencia', 'Carla'],
-    ['Zoe', 'Florencia', 'Carla'],
+        [
+            [
+                "Agostina",
+                "Lucía",
+                "Isabel"
+            ],
+            [
+                "Alan",
+                "Zoe",
+                "Juliana"
+            ],
+            [
+                "Axel",
+                "Carla",
+                "Juliana"
+            ],
+            [
+                "Bautista",
+                "Juliana",
+                "Catalina"
+            ],
+            [
+                "Carla",
+                "Hernán",
+                "Axel"
+            ],
+            [
+                "Catalina",
+                "Hernán",
+                "Nicolás"
+            ],
+            [
+                "Denisse",
+                "Juliana",
+                "Lisandro"
+            ],
+            [
+                "Emmanuel",
+                "Juliana",
+                "Hernán"
+            ],
+            [
+                "Federico",
+                "Catalina",
+                "Juliana"
+            ],
+            [
+                "Florencia",
+                "Emmanuel",
+                "Williams"
+            ],
+            [
+                "Hernán",
+                "Catalina",
+                "Juliana"
+            ],
+            [
+                "Isabel",
+                "Zoe",
+                "Juliana"
+            ],
+            [
+                "Joel",
+                "Juliana",
+                "Hernán"
+            ],
+            [
+                "Juliana",
+                "Denisse",
+                "Zoe"
+            ],
+            [
+                "Lisandro",
+                "Juliana",
+                "Zoe"
+            ],
+            [
+                "Lucía",
+                "Denisse",
+                "Florencia"
+            ],
+            [
+                "Martín",
+                "Zoe",
+                "Carla"
+            ],
+            [
+                "Nicolás",
+                "Juliana",
+                "Hernán"
+            ],
+            [
+                "Rosina",
+                "Juliana",
+                "Axel"
+            ],
+            [
+                "Sabrina",
+                "Juliana",
+                "Catalina"
+            ],
+            [
+                "Williams",
+                "Isabel",
+                "Juliana"
+            ],
+            [
+                "Zoe",
+                "Williams",
+                "Axel"
+            ]
+        ],
+        [
+            [
+                "Agostina",
+                "Axel",
+                "Sabrina"
+            ],
+            [
+                "Alan",
+                "Carla",
+                "Catalina"
+            ],
+            [
+                "Axel",
+                "Catalina",
+                "Juliana"
+            ],
+            [
+                "Bautista",
+                "Juliana",
+                "Carla"
+            ],
+            [
+                "Carla",
+                "Isabel",
+                "Sabrina"
+            ],
+            [
+                "Catalina",
+                "Isabel",
+                "Sabrina"
+            ],
+            [
+                "Denisse",
+                "Carla",
+                "Juliana"
+            ],
+            [
+                "Emmanuel",
+                "Rosina",
+                "Lisandro"
+            ],
+            [
+                "Federico",
+                "Juliana",
+                "Florencia"
+            ],
+            [
+                "Florencia",
+                "Sabrina",
+                "Axel"
+            ],
+            [
+                "Isabel",
+                "Florencia",
+                "Juliana"
+            ],
+            [
+                "Joel",
+                "Catalina",
+                "Juliana"
+            ],
+            [
+                "Juliana",
+                "Sabrina",
+                "Axel"
+            ],
+            [
+                "Lisandro",
+                "Juliana",
+                "Florencia"
+            ],
+            [
+                "Lucía",
+                "Isabel",
+                "Axel"
+            ],
+            [
+                "Martín",
+                "Catalina",
+                "Carla"
+            ],
+            [
+                "Nicolás",
+                "Florencia",
+                "Juliana"
+            ],
+            [
+                "Rosina",
+                "Axel",
+                "Carla"
+            ],
+            [
+                "Sabrina",
+                "Juliana",
+                "Carla"
+            ],
+            [
+                "Williams",
+                "Juliana",
+                "Carla"
+            ],
+            [
+                "Zoe",
+                "Juliana",
+                "Agostina"
+            ]
+        ],
+        [
+            [
+                "Agostina",
+                "Florencia",
+                "Sabrina"
+            ],
+            [
+                "Alan",
+                "Carla",
+                "Joel"
+            ],
+            [
+                "Bautista",
+                "Carla",
+                "Catalina"
+            ],
+            [
+                "Carla",
+                "Sabrina",
+                "Denisse"
+            ],
+            [
+                "Catalina",
+                "Lisandro",
+                "Sabrina"
+            ],
+            [
+                "Denisse",
+                "Carla",
+                "Florencia"
+            ],
+            [
+                "Emmanuel",
+                "Florencia",
+                "Agostina"
+            ],
+            [
+                "Federico",
+                "Carla",
+                "Florencia"
+            ],
+            [
+                "Florencia",
+                "Sabrina",
+                "Isabel"
+            ],
+            [
+                "Isabel",
+                "Florencia",
+                "Catalina"
+            ],
+            [
+                "Joel",
+                "Carla",
+                "Lisandro"
+            ],
+            [
+                "Lisandro",
+                "Florencia",
+                "Catalina"
+            ],
+            [
+                "Lucía",
+                "Isabel",
+                "Florencia"
+            ],
+            [
+                "Martín",
+                "Florencia",
+                "Agostina"
+            ],
+            [
+                "Nicolás",
+                "Florencia",
+                "Carla"
+            ],
+            [
+                "Rosina",
+                "Florencia",
+                "Lisandro"
+            ],
+            [
+                "Sabrina",
+                "Florencia",
+                "Carla"
+            ],
+            [
+                "Zoe",
+                "Florencia",
+                "Carla"
+            ]
+        ],
+        [
+            [
+                "Agostina",
+                "Martín",
+                "Sabrina"
+            ],
+            [
+                "Alan",
+                "Juliana",
+                "Rosina"
+            ],
+            [
+                "Bautista",
+                "Carla",
+                "Catalina"
+            ],
+            [
+                "Carla",
+                "Isabel",
+                "Martín"
+            ],
+            [
+                "Catalina",
+                "Martín",
+                "Lisandro"
+            ],
+            [
+                "Denisse",
+                "Carla",
+                "Juliana"
+            ],
+            [
+                "Emmanuel",
+                "Lisandro",
+                "Denisse"
+            ],
+            [
+                "Federico",
+                "Carla",
+                "Florencia"
+            ],
+            [
+                "Florencia",
+                "Martín",
+                "Isabel"
+            ],
+            [
+                "Isabel",
+                "Catalina",
+                "Florencia"
+            ],
+            [
+                "Joel",
+                "Lisandro",
+                "Sabrina"
+            ],
+            [
+                "Juliana",
+                "Lisandro",
+                "Isabel"
+            ],
+            [
+                "Lisandro",
+                "Catalina",
+                "Florencia"
+            ],
+            [
+                "Lucía",
+                "Isabel",
+                "Florencia"
+            ],
+            [
+                "Martín",
+                "Carla",
+                "Florencia"
+            ],
+            [
+                "Rosina",
+                "Florencia",
+                "Carla"
+            ],
+            [
+                "Sabrina",
+                "Catalina",
+                "Juliana"
+            ],
+            [
+                "Zoe",
+                "Isabel",
+                "Florencia"
+            ]
+        ],
+        [
+            [
+                "Agostina",
+                "Emmanuel",
+                "Florencia"
+            ],
+            [
+                "Alan",
+                "Agostina",
+                "Catalina"
+            ],
+            [
+                "Bautista",
+                "Carla",
+                "Catalina"
+            ],
+            [
+                "Catalina",
+                "Emmanuel",
+                "Florencia"
+            ],
+            [
+                "Denisse",
+                "Emmanuel",
+                "Carla"
+            ],
+            [
+                "Emmanuel",
+                "Agostina",
+                "Catalina"
+            ],
+            [
+                "Federico",
+                "Agostina",
+                "Rosina"
+            ],
+            [
+                "Florencia",
+                "Carla",
+                "Agostina"
+            ],
+            [
+                "Joel",
+                "Agostina",
+                "Catalina"
+            ],
+            [
+                "Lisandro",
+                "Carla",
+                "Emmanuel"
+            ],
+            [
+                "Lucía",
+                "Florencia",
+                "Carla"
+            ],
+            [
+                "Martín",
+                "Catalina",
+                "Carla"
+            ],
+            [
+                "Nicolás",
+                "Catalina",
+                "Carla"
+            ],
+            [
+                "Rosina",
+                "Sabrina",
+                "Emmanuel"
+            ],
+            [
+                "Sabrina",
+                "Joel",
+                "Emmanuel"
+            ],
+            [
+                "Zoe",
+                "Carla",
+                "Emmanuel"
+            ]
+        ]
     ],
-    "events": [
-      { "type": "espontanea", "participantIndex": 4 },
-    ]
-  }
-]
+    "modifications": {
+        "week1": {
+            "espontanea": [
+                [
+                    0,
+                    13
+                ]
+            ]
+        },
+        "week2": {
+            "espontanea": [
+                [
+                    1,
+                    12
+                ]
+            ],
+            "anulado1": [
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    9
+                ],
+                [
+                    1,
+                    12
+                ],
+                [
+                    1,
+                    18
+                ],
+                [
+                    1,
+                    19
+                ]
+            ],
+            "anulado2": [
+                [
+                    1,
+                    0
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    10
+                ]
+            ]
+        },
+        "week3": {
+            "espontanea": [
+                2,
+                4
+            ]
+        },
+        "week4": {
+            "espontanea": [
+                3,
+                11
+            ]
+        }
+    }
+}
