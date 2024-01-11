@@ -74,8 +74,7 @@
             [
                 "Lisandro",
                 "Juliana",
-                "Zoe",
-                espontanea: true
+                "Zoe"
             ],
             [
                 "Lucía",
@@ -117,8 +116,7 @@
             [
                 "Agostina",
                 "Axel",
-                "Sabrina",
-                anulado2: true
+                "Sabrina"
             ],
             [
                 "Alan",
@@ -133,20 +131,17 @@
             [
                 "Bautista",
                 "Juliana",
-                "Carla",
-                anulado1: true
+                "Carla"
             ],
             [
                 "Carla",
                 "Isabel",
-                "Sabrina",
-                anulado2: true
+                "Sabrina"
             ],
             [
                 "Catalina",
                 "Isabel",
-                "Sabrina",
-                anulado2: true
+                "Sabrina"
             ],
             [
                 "Denisse",
@@ -166,14 +161,12 @@
             [
                 "Florencia",
                 "Sabrina",
-                "Axel",
-                anulado1: true
+                "Axel"
             ],
             [
                 "Isabel",
                 "Florencia",
-                "Juliana",
-                anulado2: true
+                "Juliana"
             ],
             [
                 "Joel",
@@ -183,9 +176,7 @@
             [
                 "Juliana",
                 "Sabrina",
-                "Axel",
-                espontanea: true,
-                anulado1: true
+                "Axel"
             ],
             [
                 "Lisandro",
@@ -215,14 +206,12 @@
             [
                 "Sabrina",
                 "Juliana",
-                "Carla",
-                anulado1: true
+                "Carla"
             ],
             [
                 "Williams",
                 "Juliana",
-                "Carla",
-                anulado1: true
+                "Carla"
             ],
             [
                 "Zoe",
@@ -254,8 +243,7 @@
             [
                 "Catalina",
                 "Lisandro",
-                "Sabrina",
-                espontanea: true
+                "Sabrina"
             ],
             [
                 "Denisse",
@@ -382,8 +370,7 @@
             [
                 "Juliana",
                 "Lisandro",
-                "Isabel",
-                espontanea: true
+                "Isabel"
             ],
             [
                 "Lisandro",
