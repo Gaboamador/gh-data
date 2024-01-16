@@ -3,6 +3,6 @@
   "nominado": ["Rosina"],
   "noVota": ["Juliana"],
   "inmune": "",
-  "votoValeDoble": "",
+  "votoValeDoble": [""],
   "dosVotosEnContra": ""
 }
