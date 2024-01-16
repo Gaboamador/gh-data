@@ -4,5 +4,5 @@
   "noVota": ["Carla", "Juliana"],
   "inmune": ["Agostina", "Alan"],
   "votoValeDoble": ["Zoe", "Nicolás"],
-  "dosVotosEnContra": ["Lisandro", "Lucía"]
+  "dosVotosEnContra": "Lisandro"
 }
