@@ -1,6 +1,6 @@
 {
   "votoFinal": "Catalina",
-  "nominado": "Rosina",
+  "nominado": ["Rosina"],
   "noVota": ["Juliana"],
   "inmune": "",
   "votoValeDoble": "",
