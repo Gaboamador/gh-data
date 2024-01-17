@@ -59,5 +59,12 @@
       { "role": "Nominado", "name": "Alan", "result": "36,10% (Entre 2)" },
       { "role": "Nominado", "name": "Catalina", "result": "Eliminado (63,98%)" }
     ]
+  },
+   {
+    "week": 5,
+    "data": [
+      { "role": "Líder", "name": "Lisandro", "result": "-" },
+      { "role": "Nominado", "name": "Lucía", "result": "" }
+    ]
   }
 ]
