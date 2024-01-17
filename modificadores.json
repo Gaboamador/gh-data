@@ -1,6 +1,6 @@
 {
   "votoFinal": "Emmanuel",
-  "nominado": "Lucía",
+  "nominado": ["Lucía"],
   "noVota": [],
   "inmune": [],
   "votoValeDoble": [],
