@@ -1,8 +1,0 @@
-{
-  "votoFinal": "",
-  "nominado": null,
-  "noVota": [],
-  "inmune": [],
-  "votoValeDoble": [],
-  "dosVotosEnContra": ""
-}

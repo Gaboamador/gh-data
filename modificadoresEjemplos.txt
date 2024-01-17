@@ -1,0 +1,29 @@
+VACÍO
+{
+  "votoFinal": "",
+  "nominado": null,
+  "noVota": [],
+  "inmune": [],
+  "votoValeDoble": [],
+  "dosVotosEnContra": ""
+}
+
+1 PARTICIPANTE
+{
+  "votoFinal": "Ejemplo",
+  "nominado": ["Ejemplo"],
+  "noVota": ["Ejemplo"],
+  "inmune": ["Ejemplo"],
+  "votoValeDoble": ["Ejemplo"],
+  "dosVotosEnContra": "Ejemplo"
+}
+
+2+ PARTICIPANTES
+{
+  "votoFinal": "Ejemplo", // SÓLO SE PUEDE PONER 1 PARTICIPANTE
+  "nominado": ["Ejemplo", "Ejemplo"],
+  "noVota": ["Ejemplo", "Ejemplo"],
+  "inmune": ["Ejemplo", "Ejemplo"],
+  "votoValeDoble": ["Ejemplo", "Ejemplo"],
+  "dosVotosEnContra": "Ejemplo" // SÓLO SE PUEDE PONER 1 PARTICIPANTE
+}
