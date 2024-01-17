@@ -2,7 +2,7 @@
   "votoFinal": "Emmanuel",
   "nominado": ["Lucía"],
   "noVota": [],
-  "inmune": [],
+  "inmune": ["Lisandro"],
   "votoValeDoble": [],
   "dosVotosEnContra": ""
 }
