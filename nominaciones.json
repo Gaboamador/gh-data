@@ -1,116 +1,28 @@
 {
     "data": [
         [
-            [
-                "Agostina",
-                "Lucía",
-                "Isabel"
-            ],
-            [
-                "Alan",
-                "Zoe",
-                "Juliana"
-            ],
-            [
-                "Axel",
-                "Carla",
-                "Juliana"
-            ],
-            [
-                "Bautista",
-                "Juliana",
-                "Catalina"
-            ],
-            [
-                "Carla",
-                "Hernán",
-                "Axel"
-            ],
-            [
-                "Catalina",
-                "Hernán",
-                "Nicolás"
-            ],
-            [
-                "Denisse",
-                "Juliana",
-                "Lisandro"
-            ],
-            [
-                "Emmanuel",
-                "Juliana",
-                "Hernán"
-            ],
-            [
-                "Federico",
-                "Catalina",
-                "Juliana"
-            ],
-            [
-                "Florencia",
-                "Emmanuel",
-                "Williams"
-            ],
-            [
-                "Hernán",
-                "Catalina",
-                "Juliana"
-            ],
-            [
-                "Isabel",
-                "Zoe",
-                "Juliana"
-            ],
-            [
-                "Joel",
-                "Juliana",
-                "Hernán"
-            ],
-            [
-                "Juliana",
-                "Denisse",
-                "Zoe"
-            ],
-            [
-                "Lisandro",
-                "Juliana",
-                "Zoe"
-            ],
-            [
-                "Lucía",
-                "Denisse",
-                "Florencia"
-            ],
-            [
-                "Martín",
-                "Zoe",
-                "Carla"
-            ],
-            [
-                "Nicolás",
-                "Juliana",
-                "Hernán"
-            ],
-            [
-                "Rosina",
-                "Juliana",
-                "Axel"
-            ],
-            [
-                "Sabrina",
-                "Juliana",
-                "Catalina"
-            ],
-            [
-                "Williams",
-                "Isabel",
-                "Juliana"
-            ],
-            [
-                "Zoe",
-                "Williams",
-                "Axel"
-            ]
+            ["Agostina","Lucía","Isabel"],
+            ["Alan","Zoe","Juliana"],
+            ["Axel","Carla","Juliana"],
+            ["Bautista","Juliana","Catalina"],
+            ["Carla","Hernán","Axel"],
+            ["Catalina","Hernán","Nicolás"],
+            ["Denisse","Juliana","Lisandro"],
+            ["Emmanuel","Juliana","Hernán"],
+            ["Federico","Catalina","Juliana"],
+            ["Florencia","Emmanuel","Williams"],
+            ["Hernán","Catalina","Juliana"],
+            ["Isabel","Zoe","Juliana"],
+            ["Joel","Juliana","Hernán"],
+            ["Juliana","Denisse","Zoe"],
+            ["Lisandro","Juliana","Zoe"],
+            ["Lucía","Denisse","Florencia"],
+            ["Martín","Zoe","Carla"],
+            ["Nicolás","Juliana","Hernán"],
+            ["Rosina","Juliana","Axel"],
+            ["Sabrina","Juliana","Catalina"],
+            ["Williams","Isabel","Juliana"],
+            ["Zoe","Williams","Axel"]
         ],
         [
             [
@@ -484,7 +396,25 @@
                 "Carla",
                 "Emmanuel"
             ]
-        ]
+        ],
+        [
+["Agostina", "Florencia", "Emmanuel"],
+["Alan", "Juliana", "Joel"],
+["Bautista", "Florencia", "Agostina"],
+["Denisse", "Juliana", "Emmanuel"],
+["Emmanuel", "Agostina", "Martín"],
+["Federico", "Martín", "Agostina"],
+["Florencia", "Nicolás", "Martín"],
+["Joel", "Nicolás", "Denisse"],
+["Juliana", "Florencia", "Agostina"],
+["Lisandro", "Rosina", "Florencia"],
+["Lucía", "Florencia", "Martín"],
+["Martín", "Florencia", "Agostina"],
+["Nicolás", "Emmanuel", "Agostina"],
+["Rosina", "Florencia", "Emmanuel"],
+["Sabrina", "Joel", "Agostina"],
+["Zoe", "Florencia", "Emmanuel"]
+]
     ],
     "modifications": {
         "week1": {
