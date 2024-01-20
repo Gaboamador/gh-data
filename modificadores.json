@@ -1,7 +1,7 @@
 {
   "votoFinal": "",
-  "nominado": ["Virginia"],
-  "noVota": ["Federico"],
+  "nominado": null,
+  "noVota": [],
   "inmune": [],
   "votoValeDoble": [],
   "dosVotosEnContra": ""
