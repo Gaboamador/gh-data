@@ -65,7 +65,7 @@
     "data": [
       { "role": "Líder", "name": "Lisandro", "result": "-" },
       { "role": "Nominado", "name": "Martín", "result": "Salvado por el líder" },
-      { "role": "Nominado por el líder", "name": "Joel", "result": "" },
+      { "role": "Nominado por el líder", "name": "Joel", "result": "1,90% (Entre 5)" },
       { "role": "Nominado", "name": "Lucía", "result": "" },
       { "role": "Nominado", "name": "Florencia", "result": "" },
       { "role": "Nominado", "name": "Emmanuel", "result": "" },
