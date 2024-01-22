@@ -67,8 +67,8 @@
       { "role": "Nominado", "name": "Martín", "result": "Salvado por el líder" },
       { "role": "Nominado por el líder", "name": "Joel", "result": "1,90% (Entre 5)" },
       { "role": "Nominado", "name": "Lucía", "result": "5,80% (Entre 4)" },
-      { "role": "Nominado", "name": "Agostina", "result": "43,20% (Entre 2)" },
       { "role": "Nominado", "name": "Emmanuel", "result": "16,70% (Entre 3)" },
+      { "role": "Nominado", "name": "Agostina", "result": "43,20% (Entre 2)" },
       { "role": "Nominado", "name": "Florencia", "result": "Eliminado (56,80%)" }
     ]
   }
