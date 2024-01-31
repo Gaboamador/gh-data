@@ -71,5 +71,15 @@
       { "role": "Nominado", "name": "Agostina", "result": "43,20% (Entre 2)" },
       { "role": "Nominado", "name": "Florencia", "result": "Eliminado (56,80%)" }
     ]
+  },
+  {
+    "week": 6,
+    "data": [
+      { "role": "Líder", "name": "Agostina", "result": "Semana de voto positivo" },
+      { "role": "Nominado", "name": "Juliana", "result": "Salvado por el líder" },
+      { "role": "Nominado por el líder", "name": "Nicolás", "result": "-" },
+      { "role": "Nominado", "name": "Denisse", "result": "Eliminado (10,20%)" },
+      { "role": "Nominado", "name": "Alan", "result": "Eliminado (37,10%)" }
+    ]
   }
 ]
