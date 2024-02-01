@@ -122,7 +122,24 @@
             ["Rosina", "Florencia", "Emmanuel"],
             ["Sabrina", "Joel", "Agostina"],
             ["Zoe", "Florencia", "Emmanuel"]
-        ]
+        ],
+
+[
+  ["Agostina", "Federico", "Lisandro"],
+  ["Bautista", "Joel", "Emmanuel"],
+  ["Emmanuel", "Juliana", "Lisandro"],
+  ["Federico", "Virginia", "Sabrina"],
+  ["Joel", "Bautista", "Sabrina"],
+  ["Juliana", "Sabrina", "Virginia"],
+  ["Lisandro", "Joel", "Emmanuel"],
+  ["Lucía", "Juliana", "Federico"],
+  ["Martín", "Federico", "Emmanuel"],
+  ["Nicolás", "Juliana", "Agostina"],
+  ["Rosina", "Agostina", "Emmanuel"],
+  ["Sabrina", "Agostina", "Juliana"],
+  ["Virginia", "Juliana", "Agostina"],
+  ["Zoe", "Lisandro", "Agostina"],
+]
     ],
     "modifications": {
         "week1": {
