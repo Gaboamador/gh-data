@@ -87,12 +87,12 @@
     "data": [
       { "role": "Líder", "name": "Martín", "result": "-" },
       { "role": "Nominado", "name": "Juliana", "result": "Salvado por el líder" },
-      { "role": "Nominado por el líder", "name": "Virginia", "result": "" },
+     { "role": "Nominado", "name": "Joel", "result": "0,60% (Entre 8)" },
+      { "role": "Nominado por el líder", "name": "Virginia", "result": "2,70% (Entre 7)" },
       { "role": "Nominado", "name": "Agostina", "result": "" },
       { "role": "Nominado", "name": "Federico", "result": "" },
       { "role": "Nominado", "name": "Nicolás", "result": "" },
       { "role": "Nominado", "name": "Lisandro", "result": "" },
-      { "role": "Nominado", "name": "Joel", "result": "" },
       { "role": "Nominado", "name": "Emmanuel", "result": "" },
       { "role": "Nominado", "name": "Sabrina", "result": "" }
     ]
