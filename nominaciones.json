@@ -138,6 +138,21 @@
   ["Sabrina", "Agostina", "Juliana"],
   ["Virginia", "Juliana", "Agostina"],
   ["Zoe", "Lisandro", "Agostina"]
+],
+[
+  ["Agostina", "Rosina", "Virginia"],
+  ["Bautista", "Virginia", "Emmanuel"],
+  ["Emmanuel", "Martín", "Bautista"],
+  ["Federico", "Martín", "Agostina"],
+  ["Joel", "Bautista", "Nicolás"],
+  ["Juliana", "Emmanuel", "Federico"],
+  ["Lisandro", "Joel", "Virginia"],
+  ["Lucía", "Lisandro", "Agostina"],
+  ["Martín", "Joel", "Virginia"],
+  ["Nicolás", "Joel", "Virginia"],
+  ["Rosina", "Agostina", "Emmanuel"],
+  ["Virginia", "Martín", "Lisandro"],
+  ["Zoe", "Agostina", "Martín"]
 ]
     ],
     "modifications": {
