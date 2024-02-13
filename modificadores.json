@@ -1,7 +1,7 @@
 {
   "votoFinal1": "",
   "votoFinal2": "",
-  "nominado": null,
+  "nominado": ["Lucía", "Rosina", "Zoe"],
   "noVota": [],
   "inmune": [],
   "votoValeDoble": [],
