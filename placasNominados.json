@@ -105,9 +105,9 @@
       { "role": "Nominado por el líder", "name": "Lisandro", "result": "8,50% (Entre 7)" },
       { "role": "Nominado", "name": "Bautista", "result": "11,90% (Entre 6)" },
       { "role": "Nominado", "name": "Nicolás", "result": "15,50% (Entre 5)" },
+      { "role": "Nominado", "name": "Emmanuel", "result": "13,30% (Entre 4)" },
+      { "role": "Nominado", "name": "Martín", "result": "22,50% (Entre 3)" },
       { "role": "Nominado", "name": "Virginia", "result": "" },
-      { "role": "Nominado", "name": "Emmanuel", "result": "" },
-      { "role": "Nominado", "name": "Martín", "result": "" },
       { "role": "Nominado", "name": "Joel", "result": "" }
     ]
   }
