@@ -153,6 +153,20 @@
   ["Rosina", "Agostina", "Emmanuel"],
   ["Virginia", "Martín", "Lisandro"],
   ["Zoe", "Agostina", "Martín"]
+],
+[
+  ["Agostina", "Federico", "Martín"],
+  ["Bautista", "Emmanuel", "Virginia"],
+  ["Emmanuel", "Virginia", "Bautista"],
+  ["Federico", "Martín", "Juliana"],
+  ["Juliana", "Lisandro", "Virginia"],
+  ["Lisandro", "Juliana", "Emmanuel"],
+  ["Lucía", "Virginia", "Martín"],
+  ["Martín", "Federico", "Virginia"],
+  ["Nicolás", "Virginia", "Emmanuel"],
+  ["Rosina", "Emmanuel", "Virginia"],
+  ["Virginia", "Martín", "Emmanuel"],
+  ["Zoe", "Virginia", "Juliana"]
 ]
 
 
