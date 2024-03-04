@@ -132,12 +132,12 @@
     "data": [
       { "role": "Líder", "name": "Nicolás", "result": "-" },
       { "role": "Nominado", "name": "Bautista", "result": "Salvado por el líder" },
-      { "role": "Nominado por el líder", "name": "Virginia", "result": "% (Entre )" },
-      { "role": "Nominado", "name": "Juliana", "result": "% (Entre )" },
-      { "role": "Nominado", "name": "Isabel", "result": "% (Entre )" },
-      { "role": "Nominado", "name": "Lisandro", "result": "% (Entre )" },
-      { "role": "Nominado", "name": "Joel", "result": "% (Entre )" },
-      { "role": "Nominado", "name": "Agostina", "result": "% (Entre )" }
+      { "role": "Nominado", "name": "Joel", "result": "0,20% (Entre 6)" },
+      { "role": "Nominado por el líder", "name": "Virginia", "result": "0,60% (Entre 5)" },
+      { "role": "Nominado", "name": "Isabel", "result": "Porcentaje no revelado" },
+      { "role": "Nominado", "name": "Agostina", "result": "4,50% (Entre 3)" },
+      { "role": "Nominado", "name": "Juliana", "result": "38,40% (Entre 2)" },
+      { "role": "Nominado", "name": "Lisandro", "result": "Eliminado (61,60%)" }
     ]
   }
 ]
