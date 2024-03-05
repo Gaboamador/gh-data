@@ -2,8 +2,8 @@
   "votoFinal1": "",
   "votoFinal2": "",
   "nominado": null,
-  "noVota": [],
-  "inmune": [],
+  "noVota": ["Damián", "Darío", "Florencia", "Mauro", "Paloma"],
+  "inmune": ["Damián", "Darío", "Florencia", "Mauro", "Paloma"],
   "votoValeDoble": [],
   "dosVotosEnContra": "",
   "invitado": ""
