@@ -144,12 +144,12 @@
       "week": 11,
       "data": [
         { "role": "Líder", "name": "Emmanuel", "result": "-" },
-        { "role": "Nominado", "name": "-", "result": "Salvado por el líder" },
-        { "role": "Nominado por el líder", "name": "-", "result": "-" },
-        { "role": "Nominado", "name": "Sabrina", "result": "-" },
-        { "role": "Nominado", "name": "Isabel", "result": "-" },
-        { "role": "Nominado", "name": "Bautista", "result": "-" },
-        { "role": "Nominado", "name": "Joel", "result": "-" }
+        { "role": "Nominado", "name": "Martín", "result": "Salvado por el líder" },
+        { "role": "Nominado por el líder", "name": "Catalina", "result": "" },
+        { "role": "Nominado", "name": "Nicolás", "result": "" },
+        { "role": "Nominado", "name": "Joel", "result": "" },
+        { "role": "Nominado", "name": "Bautista", "result": "" },
+        { "role": "Nominado", "name": "Sabrina", "result": "" }
       ]
     }
   ]
