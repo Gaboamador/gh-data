@@ -197,6 +197,25 @@
   ["Sabrina", "Catalina", "Isabel"],
   ["Virginia", "Martín", "Bautista"],
   ["Zoe", "Isabel", "Martín"]
+],
+[
+  ["Bautista", "Darío", "Florencia"],
+  ["Catalina", "Florencia", "Bautista"],
+  ["Damián", "Mauro", "Darío"],
+  ["Darío", "Florencia", "Damián"],
+  ["Denisse", "Federico", "Damián"],
+  ["Emmanuel", "Bautista", "Mauro"],
+  ["Federico", "Bautista", "Damián"],
+  ["Florencia", "Bautista", "Darío"],
+  ["Joel", "Emmanuel", "Bautista"],
+  ["Juliana", "Denisse"],
+  ["Martín", "Florencia", "Damián"],
+  ["Mauro", "Catalina", "Rosina"],
+  ["Nicolás", "Damián", "Darío"],
+  ["Paloma", "Darío", "Damián"],
+  ["Rosina", "Darío", "Mauro"],
+  ["Virginia", "Damián", "Bautista"],
+  ["Zoe", "Darío", "Mauro"]
 ]
 
             ],
@@ -238,6 +257,14 @@
             "anuladoDos": [
                 [9,2],
                 [9,11]
+            ]
+        },
+        "week12": {
+            "espontanea": [
+                [11,4]
+            ],
+            "fulminante": [
+                [11,9]
             ]
         }
     }
