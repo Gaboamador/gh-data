@@ -151,5 +151,17 @@
         { "role": "Nominado por el líder", "name": "Catalina", "result": "39,50% (Entre 2)" },
         { "role": "Nominado", "name": "Sabrina", "result": "Eliminado (60,50%)" }
       ]
+    },
+     {
+      "week": 12,
+      "data": [
+        { "role": "Líder", "name": "Martín", "result": "-" },
+        { "role": "Líder", "name": "Zoe", "result": "-" },
+        { "role": "Nominado", "name": "Denisse", "result": "" },
+        { "role": "Nominado", "name": "Darío", "result": "" },
+        { "role": "Nominado", "name": "Damián", "result": "" },
+        { "role": "Nominado", "name": "Bautista", "result": "" },
+        { "role": "Nominado", "name": "Florencia", "result": "" }
+      ]
     }
   ]
