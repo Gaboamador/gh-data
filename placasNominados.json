@@ -157,11 +157,13 @@
       "data": [
         { "role": "Líder", "name": "Martín", "result": "-" },
         { "role": "Líder", "name": "Zoe", "result": "-" },
+        { "role": "Nominado", "name": "Florencia", "result": "Salvado por el líder" },
+        { "role": "Nominado por el líder", "name": "Nicolás", "result": "" },
+        { "role": "Nominado por el líder", "name": "Mauro", "result": "" },
         { "role": "Nominado", "name": "Denisse", "result": "" },
         { "role": "Nominado", "name": "Darío", "result": "" },
         { "role": "Nominado", "name": "Damián", "result": "" },
-        { "role": "Nominado", "name": "Bautista", "result": "" },
-        { "role": "Nominado", "name": "Florencia", "result": "" }
+        { "role": "Nominado", "name": "Bautista", "result": "" }
       ]
     }
   ]
