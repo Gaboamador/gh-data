@@ -158,12 +158,13 @@
         { "role": "Líder", "name": "Martín", "result": "-" },
         { "role": "Líder", "name": "Zoe", "result": "-" },
         { "role": "Nominado", "name": "Florencia", "result": "Salvado por el líder" },
-        { "role": "Nominado por el líder", "name": "Nicolás", "result": "" },
-        { "role": "Nominado por el líder", "name": "Mauro", "result": "" },
-        { "role": "Nominado", "name": "Denisse", "result": "" },
-        { "role": "Nominado", "name": "Darío", "result": "" },
-        { "role": "Nominado", "name": "Damián", "result": "" },
-        { "role": "Nominado", "name": "Bautista", "result": "" }
+        { "role": "Nominado", "name": "Darío", "result": "0,70% (Entre 6)" },
+        { "role": "Nominado", "name": "Bautista", "result": "1,70% (Entre 5)" },
+        { "role": "Nominado por el líder", "name": "Nicolás", "result": "3,60% (Entre 4)" },
+        { "role": "Nominado por el líder", "name": "Mauro", "result": "16,10% (Entre 3)" },
+        { "role": "Nominado", "name": "Damián", "result": "42,90% (Entre 2)" },
+        { "role": "Nominado", "name": "Denisse", "result": "Eliminado (57,10%)" }
       ]
     }
+    
   ]
