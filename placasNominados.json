@@ -179,8 +179,8 @@
         { "role": "Nominado", "name": "Mauro", "result": "5,50% (Entre 5)" },
         { "role": "Nominado", "name": "Damián", "result": "6,30% (Entre 4)" },
         { "role": "Nominado", "name": "Florencia", "result": "21,10% (Entre 3)" },
-        { "role": "Nominado", "name": "Rosina", "result": "?% (Entre ?)" },
-        { "role": "Nominado", "name": "Catalina", "result": "?% (Entre ?)" }
+        { "role": "Nominado", "name": "Catalina", "result": "40,80% (Entre 2)" },
+        { "role": "Nominado", "name": "Rosina", "result": "Eliminado (59,20%)" }
       ]
     }
     
