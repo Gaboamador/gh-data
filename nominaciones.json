@@ -234,6 +234,9 @@
   ["Rosina", "Damián"],
   ["Virginia", "Mauro", "Damián"],
   ["Zoe", "Mauro", "Damián"]
+],
+[
+["Bautista","Joel","Mauro"],["Catalina","Emmanuel","Darío"],["Damián","Emmanuel","Florencia"],["Darío","Florencia","Emmanuel"],["Emmanuel","Catalina","Florencia"],["Federico","Emmanuel","Florencia"],["Florencia","Emmanuel","Joel"],["Joel","Juliana","Darío"],["Juliana","Darío","Joel"],["Martín","Joel","Florencia"],["Mauro","Emmanuel","Joel"],["Nicolás","Joel","Mauro"],["Paloma","Mauro","Emmanuel"],["Virginia","Emmanuel","Mauro"],["Zoe","Mauro","Emmanuel"]
 ]
 
             ],
@@ -294,6 +297,11 @@
             ],
             "fulminante": [
                 [12,1]
+            ]
+        },
+        "week14": {
+            "espontanea": [
+                [13,8]
             ]
         }
     }
