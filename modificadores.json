@@ -1,12 +1,12 @@
 {
-  "votoFinal1": "Mauro",
+  "votoFinal1": "",
   "votoFinal2": "",
-  "nominado": ["Damián"],
+  "nominado": [""],
   "noVota": [],
-  "inmune": ["Paloma"],
+  "inmune": ["Bautista, Martín"],
   "votoValeDoble": [],
   "dosVotosEnContra": "",
   "unVotoVale1": [],
   "unVotoVale2": [],
-  "invitado": "Ariel"
+  "invitado": ""
 }
