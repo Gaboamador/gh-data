@@ -1,12 +1,13 @@
 {
   "votoFinal1": "",
   "votoFinal2": "",
-  "nominado": [""],
+  "nominado": null,
   "noVota": [],
   "inmune": ["Bautista, Martín"],
   "votoValeDoble": [],
   "dosVotosEnContra": "",
   "unVotoVale1": [],
   "unVotoVale2": [],
-  "invitado": ""
+  "invitado": "",
+  "nominado_EJEMPLO_VACÍO": null
 }
