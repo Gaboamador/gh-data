@@ -251,6 +251,22 @@
     ["Paloma","Mauro","Emmanuel"],
     ["Virginia","Emmanuel","Mauro"],
     ["Zoe","Mauro","Emmanuel"]
+],
+[
+  ["Bautista", "Virginia", "Federico"],
+  ["Catalina", "Federico", "Zoe"],
+  ["Damián", "Emmanuel", "Juliana"],
+  ["Darío", "Emmanuel", "Nicolás"],
+  ["Emmanuel", "Catalina"],
+  ["Federico", "Juliana", "Emmanuel"],
+  ["Florencia", "Emmanuel", "Juliana"],
+  ["Juliana", "Florencia", "Mauro"],
+  ["Martín", "Federico", "Zoe"],
+  ["Mauro", "Federico", "Zoe"],
+  ["Nicolás", "Emmanuel", "Juliana"],
+  ["Paloma", "Emmanuel", "Juliana"],
+  ["Virginia", "Juliana", "Emmanuel"],
+  ["Zoe", "Juliana", "Martín"]
 ]
 
             ],
@@ -317,6 +333,14 @@
             "espontanea": [
                 [13,8]
             ]
+        },
+        "week15": {
+            "espontanea": [
+                [14,13]
+            ]
+"fulminante": [
+[14,4]
+],
         }
     }
 }
