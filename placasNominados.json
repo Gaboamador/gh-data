@@ -208,6 +208,20 @@
         { "role": "Nominado", "name": "Juliana", "result": "42,90% (Entre 2)" },
         { "role": "Nominado", "name": "Catalina", "result": "Eliminado (57,10%)" }
       ]
+    },
+                 {
+      "week": 16,
+      "data": [
+        { "role": "Líder", "name": "Federico", "result": "-" },
+        { "role": "Nominado", "name": "Martín", "result": "Salvado por el líder" },
+        { "role": "Nominado por el líder", "name": "Darío", "result": "?% (Entre ?)" },
+        { "role": "Nominado", "name": "Constanza", "result": "?% (Entre ?)" },
+        { "role": "Nominado", "name": "Damián", "result": "?% (Entre ?)" },
+        { "role": "Nominado", "name": "Emmanuel", "result": "?% (Entre ?)" },
+        { "role": "Nominado", "name": "Juliana", "result": "?% (Entre ?)" },
+        { "role": "Nominado", "name": "Mauro", "result": "?% (Entre ?)" },
+        { "role": "Nominado", "name": "Paloma", "result": "?% (Entre ?)" }
+      ]
     }
     
   ]
