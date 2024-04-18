@@ -283,6 +283,21 @@
     ["Paloma", "Damián", "Juliana"],
     ["Virginia", "Martín", "Juliana"],
     ["Zoe", "Martín", "Damián"]
+],
+[
+  ["Bautista", "Paloma", "Federico"],
+  ["Darío", "Florencia", "Paloma"],
+  ["Constanza", "Federico", "Emmanuel"],
+  ["Emmanuel", "Constanza", "Virginia"],
+  ["Federico", "Martín", "Nicolás"],
+  ["Florencia", "Emmanuel", "Martín"],
+  ["Juliana", "Martín", "Constanza"],
+  ["Martín", "Virginia", "Federico"],
+  ["Mauro", "Constanza", "Martín"],
+  ["Nicolás", "Federico", "Emmanuel"],
+  ["Paloma", "Martín", "Nicolás"],
+  ["Virginia", "Martín", "Constanza"],
+  ["Zoe", "Emmanuel", "Constanza"]
 ]
 
             ],
@@ -384,6 +399,14 @@
             ],
             "fulminante": [
                 [15,6]
+            ]
+        },
+         "week17": {
+            "anulado": [
+                [16,3]
+            ],
+            "espontanea": [
+                [16,6]
             ]
         }
     }
