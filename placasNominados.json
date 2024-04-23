@@ -231,6 +231,24 @@
         { "role": "Nominado", "name": "Paloma", "result": "42,70% (Entre 3)" },
         { "role": "Nominado", "name": "Damián", "result": "Eliminado (8,90%)" }
       ]
+    },
+       {
+      "week": 17,
+      "data": [
+        { "role": "Líder", "name": "Bautista", "result": "Semana de votación mixta" },
+        { "role": "Nominado", "name": "Juliana", "result": "30,50%" },
+        { "role": "Nominado", "name": "Constanza", "result": "25,40%" },
+        { "role": "Nominado", "name": "Martín", "result": "15,40%" },
+        { "role": "Nominado", "name": "Virginia", "result": "7,60%" },
+        { "role": "Nominado", "name": "Emmanuel", "result": "6,90%" },
+        { "role": "Nominado", "name": "Nicolás", "result": "5,80%" },
+        { "role": "Nominado", "name": "Zoe", "result": "2,90%" },
+        { "role": "Nominado", "name": "Federico", "result": "2,50%" },
+        { "role": "Nominado", "name": "Florencia", "result": "1,50%" },
+        { "role": "Nominado", "name": "Mauro", "result": "0,70%" },
+        { "role": "Nominado", "name": "Darío", "result": "0,50%" },
+        { "role": "Nominado", "name": "Paloma", "result": "Eliminado (0,30%)" }
+      ]
     }
     
   ]
