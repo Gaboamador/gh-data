@@ -261,7 +261,7 @@
         { "role": "Nominado", "name": "Emmanuel", "result": "41,20% (Entre 2)" },
         { "role": "Nominado", "name": "Constanza", "result": "Eliminado (58,80%)" }
       ]
-    }
+    },
         {
       "week": 19,
       "data": [
@@ -273,6 +273,6 @@
         { "role": "Nominado", "name": "Martín", "result": "45,80% (Entre 2)" },
         { "role": "Nominado", "name": "Federico", "result": "Eliminado (54,20%)" }
       ]
-    },
+    }
     
   ]
