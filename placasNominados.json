@@ -292,13 +292,12 @@
       "data": [
         { "role": "Líder", "name": "Facundo", "result": "-" },
         { "role": "Líder", "name": "Martín", "result": "-" },
-        { "role": "Nominado", "name": "-", "result": "Salvado por el líder" },
-        { "role": "Nominado por el líder", "name": "-", "result": "-" },
-        { "role": "Nominado por el líder", "name": "-", "result": "-" },
-        { "role": "Nominado", "name": "Emmanuel (Noelia)", "result": "?% (Entre ?)" },
-        { "role": "Nominado", "name": "Florencia (Sol)", "result": "?% (Entre ?)" },
-        { "role": "Nominado", "name": "Darío (Francisco)", "result": "?% (Entre ?)" },
-        { "role": "Nominado", "name": "Nicolás (Mateo)", "result": "?% (Entre ?)" }
+        { "role": "Nominado", "name": "Nicolás (Mateo)", "result": "Salvado por el líder" },
+        { "role": "Nominado", "name": "Emmanuel (Noelia)", "result": "36,30% (Entre 5)" },
+        { "role": "Nominado por el líder", "name": "Virginia (Delfina)", "result": "43,30% (Entre 4)" },
+        { "role": "Nominado", "name": "Darío (Francisco)", "result": "45,80% (Entre 3)" },
+        { "role": "Nominado", "name": "Florencia (Sol)", "result": "62,70% (Entre 2)" },
+        { "role": "Nominado por el líder", "name": "Zoe", "result": "Eliminado (37,30%)" }
       ]
     }
     
