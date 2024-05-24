@@ -3,16 +3,7 @@
   "votoFinal2": "",
   "nominado": ["Juliana"],
   "noVota": [],
-  "inmune": [
-  "Bautista",
-  "Darío",
-  "Emmanuel",
-  "Florencia",
-  "Juliana",
-  "Martín",
-  "Nicolás",
-  "Virginia"
-  ],
+  "inmune": [],
   "votoValeDoble": [],
   "dosVotosEnContra": "",
   "unVotoVale1": [],
