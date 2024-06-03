@@ -305,12 +305,12 @@
       "data": [
         { "role": "Líder", "name": "Virginia", "result": "-" },
         { "role": "Nominado", "name": "Martín", "result": "Salvado por el líder" },
-        { "role": "Nominado por el líder", "Florencia": "-", "result": "?% (Entre ?)" },
-        { "role": "Nominado", "name": "Juliana", "result": "?% (Entre ?)" },
-        { "role": "Nominado", "name": "Bautista", "result": "?% (Entre ?)" },
-        { "role": "Nominado", "name": "Nicolás", "result": "?% (Entre ?)" },
-        { "role": "Nominado", "name": "Darío", "result": "?% (Entre ?)" },
-        { "role": "Nominado", "name": "Emmanuel", "result": "?% (Entre ?)" }
+        { "role": "Nominado", "name": "Darío", "result": "0,50% (Entre 6)" },
+        { "role": "Nominado", "name": "Bautista", "result": "1,10% (Entre 5)" },
+        { "role": "Nominado", "name": "Emmanuel", "result": "6,30% (Entre 4)" },          
+        { "role": "Nominado", "name": "Nicolás", "result": "19,50% (Entre 3)" },
+        { "role": "Nominado", "name": "Juliana", "result": "48,70% (Entre 2)" },
+        { "role": "Nominado por el líder", "name": "Florencia", "result": "Eliminado (51,30%)" }
       ]
     }
     
