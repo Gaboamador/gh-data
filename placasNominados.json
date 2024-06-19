@@ -313,7 +313,7 @@
         { "role": "Nominado por el líder", "name": "Florencia", "result": "Eliminado (51,30%)" }
       ]
     },
-            {
+        {
       "week": 23,
       "data": [
         { "role": "Líder", "name": "Martín", "result": "-" },
@@ -323,6 +323,17 @@
         { "role": "Nominado", "name": "Nicolás", "result": "3,40% (Entre 3)" },
         { "role": "Nominado", "name": "Juliana", "result": "41,70% (Entre 2)" },
         { "role": "Nominado", "name": "Virginia", "result": "Eliminado (58,30%)" }
+      ]
+    },
+        {
+      "week": 24,
+      "data": [
+        { "role": "Líder", "name": "Darío", "result": "-" },
+        { "role": "Nominado", "name": "Nicolás", "result": "Salvado por el líder" },
+        { "role": "Nominado por el líder", "name": "Bautista", "result": "0,10% (Entre 4)" },
+        { "role": "Nominado", "name": "Emmanuel", "result": "0,80% (Entre 4)" },
+        { "role": "Nominado", "name": "Martín", "result": "36,70% (Entre 4)" },
+        { "role": "Nominado", "name": "Juliana", "result": "Eliminado (62,40%)" }
       ]
     }
     
