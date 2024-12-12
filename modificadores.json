@@ -1,9 +1,9 @@
 {
   "votoFinal1": "",
   "votoFinal2": "",
-  "nominado": null,
-  "noVota": ["Petrona", "Sandra", "Jenifer", "Delfina"],
-  "inmune": ["Santiago"],
+  "nominado": ["Renato", "Martina"],
+  "noVota": ["Guiliano", "Ulises"],
+  "inmune": ["Sofía"],
   "votoValeDoble": [],
   "dosVotosEnContra": "",
   "unVotoVale1": [],
