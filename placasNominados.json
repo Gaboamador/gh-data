@@ -1,4 +1,42 @@
 [
-   
+    {
+      "week": 0,
+      "data": [
+        { "role": "Líder", "name": "Santiago", "result": "-" },
+        { "role": "Nominado", "name": "Luciana", "result": "Salvado por el líder" },
+        { "role": "Nominado", "name": "Carlos", "result": "11,70% (Entre 4)" },
+        { "role": "Nominado por el líder", "name": "Claudio", "result": "21,90% (Entre 3)" },
+        { "role": "Nominado", "name": "Ulises", "result": "41,10% (Entre 2)" },
+        { "role": "Nominado", "name": "Delfina", "result": "Eliminado (58,90%)" }
+      ]
+    },
+    {
+      "week": 1,
+      "data": [
+        { "role": "Líder", "name": "Sofía", "result": "-" },
+        { "role": "Nominado", "name": "Luz", "result": "Salvado por el líder" },
+        { "role": "Nominado por el líder", "name": "Keila", "result": "2,20% (Entre 6)" },
+        { "role": "Nominado", "name": "Luciana", "result": "3,48% (Entre 5)" },
+        { "role": "Nominado", "name": "Martina", "result": "3,60% (Entre 4)" },
+        { "role": "Nominado", "name": "Ulises", "result": "8,30% (Entre 3)" },
+        { "role": "Nominado", "name": "Santiago", "result": "7,70% (Entre 2)" },
+        { "role": "Nominado", "name": "Renato", "result": "Eliminado (92,30%)" }
+      ]
+    },
+        {
+      "week": 2,
+      "data": [
+        { "role": "Líder", "name": "Ulises", "result": "-" },
+        { "role": "Nominado", "name": "Andrea", "result": "-% (Entre )" },
+        { "role": "Nominado", "name": "Brian", "result": "-% (Entre )" },
+        { "role": "Nominado", "name": "Chiara", "result": "-% (Entre )" },
+        { "role": "Nominado", "name": "Jenifer", "result": "-% (Entre )" },
+        { "role": "Nominado", "name": "Luciana", "result": "-% (Entre )" },
+        { "role": "Nominado", "name": "Luz", "result": "-% (Entre )" },
+        { "role": "Nominado", "name": "Sandra", "result": "-% (Entre )" },
+        { "role": "Nominado", "name": "Santiago", "result": "-% (Entre )" },
+        { "role": "Nominado", "name": "-", "result": "Eliminado (-%)" }
+      ]
+    }
     
   ]
