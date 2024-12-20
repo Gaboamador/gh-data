@@ -1,6 +1,99 @@
 {
     "data": [
-            ],
+[
+    ["Andrea", "Martina", "Delfina"],
+    ["Brian", "Luz", "Delfina"],
+    ["Candela", "Chiara", "Delfina"],
+    ["Carlos", "Delfina", "Luciana"],
+    ["Chiara", "Luz", "Candela"],
+    ["Claudio", "Sandra", "Martina"],
+    ["Ezequiel", "Delfina", "Lourdes"],
+    ["Giuliano", "Carlos", "Petrona"],
+    ["Juan Pablo", "Luciana", "Lourdes"],
+    ["Keila", "Carlos", "Giuliano"],
+    ["Lourdes", "Ulises", "Juan Pablo"],
+    ["Luca", "Keila", "Carlos"],
+    ["Luciana", "Carlos", "Martina"],
+    ["Luz", "Jenifer", "Chiara"],
+    ["Martina", "Ulises", "Carlos"],
+    ["Renato", "Luciana", "Lourdes"],
+    ["Santiago", "Ulises", "Jenifer"],
+    ["Sebastián", "Luciana", "Carlos"],
+    ["Sofía", "Delfina", "Renato"],
+    ["Ulises", "Petrona", "Delfina"]
+],
+[
+    ["Andrea", "Giuliano", "Chiara"],
+    ["Brian", "Ulises", "Luz"],
+    ["Candela", "Ulises", "Jenifer"],
+    ["Carlos", "Santiago", "Sebastian"],
+    ["Chiara", "Andrea", "Candela"],
+    ["Claudio", "Santiago", "Lourdes"],
+    ["Ezequiel", "Luciana", "Luz"],
+    ["Jenifer", "Candela", "Santiago"],
+    ["Juan Pablo", "Santiago", "Andrea"],
+    ["Keila", "Santiago", "Luz"],
+    ["Lourdes", "Candela", "Luz"],
+    ["Luca", "Ulises", "Luciana"],
+    ["Luciana", "Lourdes", "Chiara"],
+    ["Luz", "Ulises", "Petrona"],
+    ["Martina", "Ulises", "Andrea"],
+    ["Petrona", "Keila", "Carlos"],
+    ["Renato", "Candela", "Santiago"],
+    ["Sandra", "Santiago", "Luciana"],
+    ["Santiago", "Jenifer", "Ulises"],
+    ["Sebastián", "Giuliano", "Luciana"],
+    ["Sofía", "Luciana", "Giuliano"]
+],
+[
+    ["Andrea", "Sandra", "Chiara"],
+    ["Brian", "Sandra", "Jenifer"],
+    ["Candela", "Chiara", "Jenifer"],
+    ["Carlos", "Luz", "Luciana"],
+    ["Chiara", "Carlos", "Luciana"],
+    ["Claudio", "Luciana", "Lourdes"],
+    ["Ezequiel", "Luciana", "Luz"],
+    ["Giuliano", "Luciana", "Sandra"],
+    ["Jenifer", "Luz", "Sandra"],
+    ["Juan Pablo", "Luz", "Sandra"],
+    ["Keila", "Sandra", "Luz"],
+    ["Lourdes", "Chiara", "Candela"],
+    ["Luca", "Jenifer", "Chiara"],
+    ["Luciana", "Chiara", "Jenifer"],
+    ["Luz", "Jenifer", "Sandra"],
+    ["Martina", "Sandra", "Chiara"],
+    ["Petrona", "Luz", "Sandra"],
+    ["Sandra", "Luz", "Carlos"],
+    ["Santiago", "Jenifer", "Chiara"],
+    ["Sebastián", "Chiara", "Jenifer"],
+    ["Sofía", "Chiara", "Carlos"],
+    ["Ulises", "Luz", "Luciana"]    
+]
+
+],
     "modifications": {
+        "week2": {
+            "espontanea": [
+                [1,5]
+            ],
+            "anulado": [
+                [1,0],
+                [1,4],
+                [1,5],
+                [1,7],
+                [1,16]
+            ],
+            "anuladoUno": [
+                [1,10]
+            ],
+            "anuladoDos": [
+                [1,14]
+            ]
+        },
+        "week3": {
+            "espontanea": [
+                [2,0]
+            ]
         }
+    }
 }
